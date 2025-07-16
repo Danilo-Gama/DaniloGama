@@ -1,4 +1,4 @@
-## Olá, mundo! Eu sou Danilo Gama. 🖖
+## HELLO WORLD! I'M DANILO. 🖖
 
 Sou estudante de desenvolvimento de Sistemas e sou apaixonado por Back-End. Meu objetivo é criar aplicações modernas, acessíveis e intuitivas, proporcionando a melhor experiência possível para os usuários.
 
@@ -51,7 +51,6 @@ Vamos construir algo incrível juntos? 🚀
 ### Ferramentas de Desenvolvimento
 <div style="display: inline_block">
     <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-     <img alt="Vite" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
     <img alt="IntelliJ-IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white"/>
     <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
