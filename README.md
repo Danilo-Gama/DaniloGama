@@ -13,7 +13,7 @@ Atualmente, estou me aprofundando em Spring Boot.
 Sou fascinado por como a tecnologia pode transformar vidas e acredito no poder do aprendizado contínuo. <br>
 Vamos construir algo incrível juntos? 🚀
 
-📂 Portfólio: <br>
+📂 Portfólio: https://portifoliodg-fv5v.vercel.app/index.html <br>
 📧 E-mail: danilorgama@hotmail.com <br>
 <br>
 
@@ -36,16 +36,13 @@ Vamos construir algo incrível juntos? 🚀
 <div style="display: inline_block">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div>
 <br>
 
 ### Frameworks e Bibliotecas
 <div style="display: inline_block">
     <img alt="Ant Design" src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white"/>
-    <img alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/>
-    <img alt="Bootstrep" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img alt="Vue.Js" src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
     <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </div>
