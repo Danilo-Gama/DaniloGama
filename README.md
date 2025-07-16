@@ -36,7 +36,6 @@ Vamos construir algo incrível juntos? 🚀
 <div style="display: inline_block">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div>
 <br>
 
