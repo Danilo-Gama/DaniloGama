@@ -4,7 +4,7 @@ Sou estudante de desenvolvimento de Sistemas e sou apaixonado por Back-End. Meu 
 
 ### 💡 No que estou focado?
 
-🚀 Desenvolvendo aplicações com JAVA, KOTLIN e SPRING BOOT <br>
+🚀 Desenvolvendo aplicações com JAVA e SPRING BOOT <br>
 🎨 Aprendendo Spring boot para deixar minhas aplicações mais completas <br>
 📊 Aplicando Scrum e Kanban para organização e colaboração <br>
 
